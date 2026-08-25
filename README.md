@@ -17,7 +17,7 @@ This project should only be used on systems and networks you own or have permiss
 
 The basic flow is:
 ---
-`md 
+```mermaid
 User Command
      │
      ▼
