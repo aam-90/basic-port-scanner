@@ -45,23 +45,6 @@ Results
      ├── JSON report
      └── CSV report
 ```
-## Project Structure
-
-main.py → Runs the program and handles user input.
-
-config.py → Stores default settings and service names.
-
-scanner/ → Contains the main scanner modules.
-
-tcp_scanner.py → Scans TCP ports and detects open ports.
-
-reporter.py → Saves scan results as JSON or CSV.
-
-validators.py → Validates port ranges and timeout values.
-
-tests/ → Contains automated tests.
-
-test_scanner.py → Tests scanner functions.
 
 test_reporter.py → Tests report generation.
 
