@@ -1,5 +1,5 @@
-##Basic TCP Port Scanner
-#Main Idea
+Basic TCP Port Scanner
+---
 
 This project is a basic TCP port scanner written in Python for learning and authorized testing.
 
@@ -13,7 +13,7 @@ The scanner attempts a TCP connection to each port in a selected range. If the c
 
 This project should only be used on systems and networks you own or have permission to test.
 
-##How It Works
+
 
 The basic flow is:
 ---
