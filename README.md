@@ -17,7 +17,9 @@ This project should only be used on systems and networks you own or have permiss
 
 The basic flow is:
 ---
-```mermaid
+## How It Works
+
+```text
 User Command
      │
      ▼
@@ -42,7 +44,7 @@ Results
      ├── Terminal summary
      ├── JSON report
      └── CSV report
-
+```
 ## Project Structure
 
 main.py → Runs the program and handles user input.
